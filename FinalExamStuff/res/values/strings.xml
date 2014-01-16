@@ -2,5 +2,16 @@
 <resources>
 
     <string name="app_name">Final Exam Stuff</string>
+    <string name="student_name">Name</string>
+    <string name="student_number">Student Number</string>
+
+    <string-array name="student_departments">
+        <item>CE</item>
+        <item>ME</item>
+        <item>MBG</item>
+    </string-array>
+
+    <string name="menu_add">Add Student</string>
+    <string name="menu_save">Save Student</string>
 
 </resources>

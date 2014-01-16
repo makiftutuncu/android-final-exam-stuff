@@ -6,13 +6,16 @@
     <fragment
         android:id="@+id/fragment_studentList"
         android:name="tr.edu.iyte.ceng389.finalexamstuff.StudentListFragment"
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
+        android:layout_weight="4"
         android:layout_height="match_parent" />
 
     <FrameLayout
         android:id="@+id/frameLayout_studentDetails"
+        android:layout_weight="6"
         android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:visibility="gone" />
+        android:visibility="visible" >
+    </FrameLayout>
 
 </LinearLayout>
