@@ -2,11 +2,5 @@
 <resources>
 
     <string name="app_name">Final Exam Stuff</string>
-    
-    <string name="main_takePicture">Take a Picture</string>
-    <string name="main_takePictureAndSave">Take a Picture and Save It</string>
-    <string name="main_useCustomCamera">Use Custom Camera</string>
-    
-    <string name="takePicture_start">Start Camera</string>
 
 </resources>
